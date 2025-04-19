@@ -1,0 +1,1 @@
+Full‑stack app using FastAPI + React/TypeScript to find optimal stock trading windows via Kadane’s algorithm.
